@@ -31,3 +31,11 @@ Los datos se almacenan en `player_log.txt`
 ## Autores
 
 Desarrollado por **Agustín Monetti** e **Ignacio Blua**
+
+
+## Contacto
+
+- **Autor**: Agustin Monetti
+- **Email**: agmonetti@uade.edu.ar
+- **GitHub**: [@agmonetti](https://github.com/agmonetti)
+
